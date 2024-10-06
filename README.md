@@ -7,7 +7,7 @@
 5.CREATE A FILE NAME " .env " . 
    ----------PASTE THIS----------
    GEMINI_API_KEY=AIzaSyDoVxGfOCnwOLUipnlGPwBk75efRVIp3Co
-# AIzaSyBQpVRTAfJ58PmEDDWoS8GpHshcWDimgr8
+
 PORT=5001
 
 -----------------------------------------------------
