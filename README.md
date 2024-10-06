@@ -1,4 +1,4 @@
-1.npm i node
+1.npm i init --y
 2.npm i express
 3. npm install @google/generative-ai
 
