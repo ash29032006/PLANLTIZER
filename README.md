@@ -1,5 +1,5 @@
 1.npm i init --y
-2.npm i express
+2.npm i express dotenv multer pdfkit
 3. npm install @google/generative-ai
 
 4.cd into the file
